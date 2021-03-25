@@ -26,6 +26,6 @@ CentOS / Fedora / RedHat:
 
 
 Some examples of the usage is this:
-  `// Get all the bible verses in the old testament in chronological order\n
+  `// Get all the bible verses in the old testament in chronological order
    SELECT book, verse FROM Bible_Ordered_Chapters WHERE testament="O"`
    
