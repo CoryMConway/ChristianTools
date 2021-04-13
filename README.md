@@ -5,11 +5,11 @@ This repository will contain scripts, database files, and many other tools that 
   **ods**: stands for open document spreadshet which is used in open source spreadsheet software such as libreoffice.  
   **xlsx** The second file is to be used in Microsoft Excel.  
   #### The Column Headers:  
-   &nbsp;&nbsp;&nbsp;&nbsp;ChronId:This is an integer that represents where the corresponding "(Book,Chapter)" is chronologically  
-   &nbsp;&nbsp;&nbsp;&nbsp;NormId: This is an integer that represents where the corresponding "(Book,Chapter)" in the normal order of the bible  
-   &nbsp;&nbsp;&nbsp;&nbsp;Book: This is the book of the bible that the (Book,Chapter) corresponds to.  
-   &nbsp;&nbsp;&nbsp;&nbsp;Chapter: This is the chapter that the (Book,Chapter) corresponds to.  
-   &nbsp;&nbsp;&nbsp;&nbsp;Testament: This is the testament (Old Testament or New Testament) that the (Book,Chapter) corresponds to.  
+   ChronId:This is an integer that represents where the corresponding "(Book,Chapter)" is chronologically  
+   NormId: This is an integer that represents where the corresponding "(Book,Chapter)" in the normal order of the bible  
+   Book: This is the book of the bible that the (Book,Chapter) corresponds to.  
+   Chapter: This is the chapter that the (Book,Chapter) corresponds to.  
+   Testament: This is the testament (Old Testament or New Testament) that the (Book,Chapter) corresponds to.  
       
       
 This spreadsheet can be exported to a csv. I have included the .csv file in this directory.
